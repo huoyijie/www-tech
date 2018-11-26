@@ -53,8 +53,12 @@ Java性能权威指南
 
 groovy(grails)
 Scala程序设计
+七周七语言
 
 流畅的Python
+Python网络编程攻略
+Python网络数据采集
+
 go官方文档
 Node.js实战
 深入浅出Node.js
@@ -76,8 +80,17 @@ Tomcat架构解析_基于Tomcat8.5
 
 Spring Framework(Spring web mvc, Sprint webflux)
 Sprint Boot官方文档
-Web应用性能权威指南
+Web性能权威指南
 Web应用安全权威指南
 
 # 容器
-Docker
+Docker官方文档
+
+# 其他
+## 机器学习/深度学习
+统计思维：程序员数学之概率统计（第2版）
+2012.李航.统计学习方法
+机器学习实战
+深度学习
+机器学习-周志华
+相关论文
