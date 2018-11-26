@@ -8,6 +8,7 @@ HTTP权威指南/HTTPS权威指南
 ## 通信
 Netty实战
 netty-4-user-guide
+Netty权威指南（第2版）
 
 ## 分布式协作
 ZooKeeper-分布式过程协同技术详解
@@ -16,9 +17,12 @@ ZooKeeper-分布式过程协同技术详解
 Java并发编程实战
 Java并发编程的艺术
 JAVA并发编程实践
+七周七并发模型
 
-## 分布式编程框架
-Sprint Cloud官方文档
+## 微服务编程框架
+Spring Boot实战
+Spring Boot官方文档
+Spring Cloud官方文档
 
 ## 监控
 google-dapper
@@ -33,6 +37,9 @@ Redisson分布式锁
 分布式事务
 非阻塞异步Client
 
+## 微服务
+微服务设计
+
 # 编程语言
 
 ## JVM语言
@@ -44,10 +51,10 @@ Java技术手册（第6版）
 Java性能权威指南
 深入理解Java虚拟机：JVM高级特性与最佳实践
 
-groovy
-scala
+groovy(grails)
+Scala程序设计
 
-python
+流畅的Python
 go官方文档
 Node.js实战
 深入浅出Node.js
@@ -56,8 +63,8 @@ Node.js实战
 JavaScript高级程序设计（第3版）
 你不知道的JavaScript
 JQuery官方文档
-css
-html/html5
+CSS揭秘
+HTML5与CSS3基础教程（第8版）
 
 Servlet规范
 servlet-3_1-final
@@ -69,8 +76,8 @@ Tomcat架构解析_基于Tomcat8.5
 
 Spring Framework(Spring web mvc, Sprint webflux)
 Sprint Boot官方文档
-WEB性能权威指南
-WEB安全权威指南
+Web应用性能权威指南
+Web应用安全权威指南
 
 # 容器
 Docker
