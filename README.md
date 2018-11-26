@@ -4,6 +4,8 @@
 # HTTP协议
 HTTP权威指南/HTTPS权威指南
 
+HTTP 2.0协议
+
 # 分布式
 ## 通信
 Netty实战
@@ -111,8 +113,17 @@ Web性能权威指南
 
 Web应用安全权威指南
 
+Async Http Client
+
+OKHttp
+
 # 容器
 Docker官方文档
+
+# 编程模型
+Reactor
+
+Rx
 
 # 其他
 ## 机器学习/深度学习
